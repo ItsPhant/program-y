@@ -6,7 +6,7 @@ brother:M
 cat:U
 daughter:F
 dog:U
-father:F
+father:M
 friend:U
 girlfriend:F
 grandfather:F
@@ -20,4 +20,3 @@ son:M
 teacher:U
 uncle:M
 wife:F
-
